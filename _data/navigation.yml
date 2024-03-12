@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Approach"
+    url: /cv/
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -14,10 +17,6 @@ main:
    
   - title: #"Portfolio"
     url: #/portfolio/
-        
-   
-  - title: # "CV"
-    url: # /cv/
-    
+  
   - title: # "Guide"
     url: # /markdown/
