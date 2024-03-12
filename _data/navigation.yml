@@ -9,7 +9,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: #"Talks"
+  - title: "Contact Us"
     url: #/talks/    
    
   - title: #"Portfolio"
