@@ -1,10 +1,10 @@
 ---
-title: "SEM 10 BArch Course on Application of GIS in Urban Systems"
+title: "Application of GIS in Urban Systems"
 collection: teaching
-type: "Undergraduate course"
+type: "SEM 10 B Arch Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Architecture, DYPUSOA"
-date: 2014-01-01
+date: 2024-01-01
 location: "Navi Mumbai, India"
 ---
 
