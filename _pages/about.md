@@ -19,7 +19,7 @@ Our vision is to lead in GIS education by nurturing innovative thinkers and futu
 
 Mission
 ======
-The GIS Certificate Programme at DY Patil School of Architecture is committed to providing an exhaustive and engaging learning experience. We combine theoretical foundations with practical skills through the use of state-of-the-art, both proprietary and open-source, GIS platforms. Our mission is to foster a research-oriented environment that encourages innovative problem-solving in urban planning with GIS tools and modeling. We aim to keep our students at the forefront of GIS technology, advocating for sustainable design principles and multidisciplinary approaches in urban development. Our commitment extends to maintaining the highest educational standards, inspiring our students to apply their GIS knowledge in diverse urban planning scenarios.
+The Programme is committed to providing an exhaustive and engaging learning experience. We combine theoretical foundations with practical skills through the use of state-of-the-art, both proprietary and open-source, GIS platforms. Our mission is to foster a research-oriented environment that encourages innovative problem-solving in urban planning with GIS tools and modeling. We aim to keep our students at the forefront of GIS technology, advocating for sustainable design principles and multidisciplinary approaches in urban development. Our commitment extends to maintaining the highest educational standards, inspiring our students to apply their GIS knowledge in diverse urban planning scenarios.
 
 Objectives
 =========
