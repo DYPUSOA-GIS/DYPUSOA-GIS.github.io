@@ -33,9 +33,9 @@ Outreach
 ===========
 The GIS Lab is deeply involved in extending its resources and expertise beyond traditional research and academic boundaries. Our outreach initiatives include:
 
-- Education for BArch and MArch Students: We offer specialized GIS training to Bachelor of Architecture and Master of Architecture (Urban Design) students, integrating GIS methodologies directly into their curricula and studio projects.
-- GIS Certificate Course and Summer Programme: These programs are tailored to enhance the skills of both our students and external professionals, providing in-depth knowledge and practical experience with GIS technology.
-- Integration with MArch Studios: GIS technology is incorporated into Master of Architecture studios, allowing students to apply spatial analysis and visualization techniques directly to their design projects.
-- Professional Training: Recognizing the growing demand for GIS expertise in professional settings, we are developing short programs specifically designed to meet the needs of working professionals. These sessions aim to offer practical skills and knowledge updates in GIS applications relevant to the industry.
+- **Education for BArch and MArch Students**: We offer specialized GIS training to Bachelor of Architecture and Master of Architecture (Urban Design) students, integrating GIS methodologies directly into their curricula and studio projects.
+- **GIS Certificate Course and Summer Programme**: These programs are tailored to enhance the skills of both our students and external professionals, providing in-depth knowledge and practical experience with GIS technology.
+- **Integration with MArch Studios**: GIS technology is incorporated into Master of Architecture studios, allowing students to apply spatial analysis and visualization techniques directly to their design projects.
+- **Professional Training**: Recognizing the growing demand for GIS expertise in professional settings, we are developing short programs specifically designed to meet the needs of working professionals. These sessions aim to offer practical skills and knowledge updates in GIS applications relevant to the industry.
 
 Our outreach efforts are designed to bridge the gap between academic learning and professional practice, ensuring that our students and participants are well-equipped to apply GIS technology in various contexts. Stay tuned for further updates on our outreach activities.
